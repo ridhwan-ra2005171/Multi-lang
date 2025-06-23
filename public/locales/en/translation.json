@@ -1,0 +1,7 @@
+{
+    "greetings": "Hello, Welcome!",
+    "description": {
+      "line1": "You are currently reading this text in English, written by <1>{{author}}</1>",
+      "line2": "You can change the language by clicking on the button above"
+    }
+  }
