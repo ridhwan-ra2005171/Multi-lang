@@ -1,5 +1,6 @@
 {
     "greetings": "Hallo, Willkommen!",
+    "subtitle": "Ihr mehrsprachiges Erlebnis beginnt hier!",
     "description": {
       "line1": "Sie lesen gerade diesen Text in Deutsch, geschrieben von {{author}}",
       "line2": "Sie können die Sprache ändern indem Sie auf den Button oben klicken"
